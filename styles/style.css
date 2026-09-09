@@ -204,6 +204,7 @@
 
 .gallery__image {
   inline-size: 100%;
+  block-size: auto;
 }
 
 /* Подвал */
